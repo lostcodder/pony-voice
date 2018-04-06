@@ -1,0 +1,8 @@
+{
+  "name": "pony-voice",
+  "app_id": "a660bdfc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
